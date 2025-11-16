@@ -1,0 +1,20 @@
+<!-- Structure same as Chapter 1, change: title, progress bar, story text -->
+<header>
+  <h2>Chapter 2: Dark Sighters Assemble</h2>
+  <div class="progress-bar"><div class="progress" style="width:12.5%"></div></div>
+</header>
+
+<main class="story-content">
+<p>Vera gathered her team in a hidden classroom basement, whispering urgently.</p>
+<p>"Luna, Cyra, Rogue, Shade, we need to make Isabella’s company crumble from within," Vera said.</p>
+<p>They had one advantage: by day, they blended perfectly as students, attending lectures, taking notes, and appearing harmless.</p>
+<p>Their disguises allowed them to move unnoticed within the university while secretly planning.</p>
+<p>Meanwhile, Ethan and Isabella unknowingly crossed paths again during a lecture.</p>
+<p>Their accidental encounters sparked curiosity and subtle hints of partnership.</p>
+<p>Selena sent messages to the hacker team, providing inside intel about Isabella’s company systems.</p>
+<p>Cyra smiled at the incoming information, fingers ready to exploit vulnerabilities.</p>
+<p>Luna, the sniper, observed the scene outside the window, keeping the team safe.</p>
+<p>Rogue and Shade prepared for physical interventions if needed.</p>
+<!-- Continue story with action, dialogue, suspense until ~200 lines -->
+<p>[...continue story paragraphs up to 200 lines...]</p>
+</main>
